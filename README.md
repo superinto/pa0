@@ -1,2 +1,2 @@
 # pa0
-PA0
+This project generates a triangle on a window.
